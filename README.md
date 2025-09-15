@@ -47,6 +47,11 @@ hotel_system/
 - PHP 7.4+
 - MySQL / MariaDB
 
+## 🔑 Login Details
+
+- **Username: admin**
+- **Password: admin123**
+
 ---
 
 ## Installation
@@ -72,3 +77,4 @@ $servername = "localhost";
 $username = "root";
 $password = ""; // default XAMPP
 $dbname = "hotel_system";
+
