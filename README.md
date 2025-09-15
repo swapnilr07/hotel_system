@@ -57,7 +57,7 @@ hotel_system/
 ## Installation
 1. **Clone the repository**  
 
-   git clone https://github.com/yourusername/hotel_management_system.git 
+   git clone https://github.com/swapnilr07/hotel_system.git
 1. **Download / Clone Project**  
    Place the project folder inside `htdocs` (e.g., `C:\xampp\htdocs\hotel_system`).
 
@@ -77,4 +77,5 @@ $servername = "localhost";
 $username = "root";
 $password = ""; // default XAMPP
 $dbname = "hotel_system";
+
 
